@@ -1,4 +1,4 @@
-# Boston-Molasses-Flood-ANSYS-Analysis
+# Boston_Molasses_Flood-ANSYS_Analysis
 Choose an example or incident of structural or materials failures in enginering disasters or infrastructures and analyze its failure and give your recommendation. FEA ANSYS simulation is optional and highly recommended.
 
 ## Class:
